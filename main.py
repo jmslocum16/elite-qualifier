@@ -1,1 +1,1 @@
-print("Elite!")
+print("Elite Qualifier!")
