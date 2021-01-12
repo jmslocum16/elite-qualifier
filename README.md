@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+This is a test repository for code2college.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This is why this application exists.....
 
 ## Install
 
